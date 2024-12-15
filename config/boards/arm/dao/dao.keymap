@@ -19,8 +19,8 @@
 &lt { quick_tap_ms = <150>; };
 &mt { quick_tap_ms = <150>; };
 &kscan0 {
-    debounce-press-ms = <40>;
-    debounce-release-ms = <40>;
+    debounce-press-ms = <10>;
+    debounce-release-ms = <10>;
 };
 
 / {
