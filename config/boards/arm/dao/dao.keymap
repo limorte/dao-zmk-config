@@ -18,10 +18,10 @@
 
 &lt { quick_tap_ms = <150>; };
 &mt { quick_tap_ms = <150>; };
-//&kscan0 {
-//    debounce-press-ms = <40>;
-//    debounce-release-ms = <40>;
-//}
+&kscan0 {
+    debounce-press-ms = <40>;
+    debounce-release-ms = <40>;
+}
 
 / {
     chosen {
